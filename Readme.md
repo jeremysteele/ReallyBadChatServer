@@ -1,7 +1,7 @@
 # Really Bad Chat Server
 #### Now includes 100% more stuff
 
-This server is bad. Like, really bad. Don't use it. Ever. Or may you should use it? I don't 
+This server is bad. Like, really bad. Don't use it. Ever. Or maybe you should use it? I don't 
 know, nor do I care. 
 
 Why did I make this? A friend bet me $50 I couldn't create a decently-functional chat server in an hour.
