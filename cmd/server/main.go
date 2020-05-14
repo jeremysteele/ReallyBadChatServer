@@ -18,9 +18,9 @@ func main() {
 
 	c := config.ReadConfig()
 
-	log.Debugf("Config %+v", c)
-
 	s := server.NewServer(c)
+
+	log.Infof("Listening on port %d", c.ServerPort)
 
 	if err := s.Run(); err != nil {
 		log.WithError(err).Fatal("critical error while running server")

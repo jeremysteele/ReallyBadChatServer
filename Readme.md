@@ -1,8 +1,16 @@
 # Really Bad Chat Server
-#### The worst chat server ever created by the hand of man
+#### Now includes 100% more stuff
 
 This server is bad. Like, really bad. Don't use it. Ever. Or may you should use it? I don't 
 know, nor do I care. 
+
+Why did I make this? A friend bet me $50 I couldn't create a decently-functional chat server in an hour.
+
+## Amazing Features
+
+- You can set your name. Completely new technology, patent pending.
+- Multiple chat rooms! Also patent pending.
+- It totally supports emojis. So poop away! 💩💩💩 (as long as your terminal supports them).
 
 ## The Horrible Protocol
 
